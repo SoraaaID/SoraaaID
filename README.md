@@ -16,17 +16,10 @@
 
 <div align="center">
 
-<!--
-  CARA PASANG VIDEO:
-  1. Buka README ini di editor GitHub (ikon pensil).
-  2. Seret file soradev-showreel.mp4 ke dalam kotak editor.
-  3. GitHub akan membuat link https://github.com/user-attachments/assets/...
-  4. Tempel link itu menggantikan URL_VIDEO_DI_
 
 https://github.com/user-attachments/assets/ce745c6e-5267-498f-86ff-2b29fcdb56b0
 
-SINI di bawah.
--->
+
 
 <video src="URL_VIDEO_DI_SINI" controls muted width="80%"></video>
 
