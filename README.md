@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SoraDev-ID&color=blue" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=SoraaaID&color=blue" alt="Profile views">
 
 </div>
 
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/ce745c6e-5267-498f-86ff-2b29fcdb56b0
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://github.com/SoraDev-ID"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/SoraaaID"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://stackoverflow.com/users/SoraDev-ID"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
   <a href="https://t.me/SoraaaID"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.facebook.com/SoraDev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
