@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="SoraaaID banner" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Halo%2C+saya+SoraaaID;Web+%26+Security+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+SoraaaID;Web+%26+Security+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
 
 <br>
 
@@ -14,11 +14,11 @@
 
 ## 👋 About Me
 
-Pembelajar otodidak dengan rasa ingin tahu yang besar — selalu tertarik mempelajari hal baru, terutama seputar perangkat lunak. Fokus saya membangun tool CLI, bot, dan otomasi: sebagian besar proyek berangkat dari kebutuhan pribadi, lalu dipoles sampai layak dipakai orang lain — terdokumentasi, teruji, dan terus dirawat.
+Self-taught learner with a big curiosity — always eager to learn new things, especially around software. I build CLI tools, bots, and automation: most projects start from a personal need, then get polished until they're worth sharing — documented, tested, and continuously maintained.
 
-- 🔭 Saat ini mengembangkan tool developer berbasis **Python** dan **Node.js**
-- 🌱 Sedang mendalami keamanan web dan otomasi infrastruktur, sambil terus membuka diri untuk bidang baru apa pun
-- 💡 Prinsip: buat yang sederhana, ukur dengan data, perbaiki terus
+- 🔭 Currently building developer tools with **Python** and **Node.js**
+- 🌱 Diving into web security and infrastructure automation, while staying open to any new field
+- 💡 Principle: keep it simple, measure with data, improve continuously
 
 ---
 
@@ -39,14 +39,14 @@ Pembelajar otodidak dengan rasa ingin tahu yang besar — selalu tertarik mempel
 
 ## 🚀 Featured Projects
 
-| Project | Deskripsi |
-| ------- | --------- |
-| [Termux-Package](https://github.com/SoraaaID/Termux-Package) | Installer package Termux untuk pemula — instalasi batch & paralel, lewati yang sudah terpasang, plus mode CLI non-interaktif |
-| [ui-design-review-bot](https://github.com/SoraaaID/ui-design-review-bot) | CLI Node.js untuk membandingkan desain Figma dengan web live: diff piksel, audit tipografi, cek kontras WCAG, dan laporan checklist beranotasi |
-| [issue-triage-bot](https://github.com/SoraaaID/issue-triage-bot) | Bot GitHub Actions bertenaga Gemini AI: triase issue otomatis — cek duplikat, cari file terkait, pasang label & prioritas, hingga draft PR |
-| [keuanganku](https://github.com/SoraaaID/keuanganku) | Aplikasi pencatat keuangan offline-first untuk Android & PWA, dibangun dengan Vanilla JS dan Capacitor |
-| [proxy-scraper](https://github.com/SoraaaID/proxy-scraper) | Scraper proxy publik dengan validasi koneksi dan klasifikasi anonimitas, diperbarui otomatis via GitHub Actions |
-| [py-analysis-tool](https://github.com/SoraaaID/py-analysis-tool) | Toolkit CLI untuk inspeksi bytecode Python (.pyc) dan format aplikasi terpaket, lengkap dengan laporan HTML |
+| Project | Description |
+| ------- | ----------- |
+| [Termux-Package](https://github.com/SoraaaID/Termux-Package) | Beginner-friendly Termux package installer — batched & parallel installs, skips what's already installed, plus a non-interactive CLI mode |
+| [ui-design-review-bot](https://github.com/SoraaaID/ui-design-review-bot) | Node.js CLI that compares Figma designs against live websites: pixel diffing, typography audits, WCAG contrast checks, and annotated checklist reports |
+| [issue-triage-bot](https://github.com/SoraaaID/issue-triage-bot) | GitHub Actions bot powered by Gemini AI for automatic issue triage — duplicate detection, related-file search, labels & priorities, even draft PRs |
+| [keuanganku](https://github.com/SoraaaID/keuanganku) | Offline-first personal finance tracker for Android & PWA, built with Vanilla JS and Capacitor |
+| [proxy-scraper](https://github.com/SoraaaID/proxy-scraper) | Public proxy scraper with connection validation and anonymity classification, auto-updated via GitHub Actions |
+| [py-analysis-tool](https://github.com/SoraaaID/py-analysis-tool) | CLI toolkit for inspecting Python bytecode (.pyc) and packaged application formats, with HTML reporting |
 
 ---
 
@@ -87,4 +87,4 @@ https://github.com/user-attachments/assets/ce745c6e-5267-498f-86ff-2b29fcdb56b0
   <a href="https://ko-fi.com/SORADEV-ID"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </p>
 
-<p align="center"><sub>Terima kasih sudah mampir. Jangan ragu membuka issue atau fork di repo mana pun yang bermanfaat buatmu.</sub></p>
+<p align="center"><sub>Thanks for stopping by. Feel free to open an issue or fork anything you find useful.</sub></p>
