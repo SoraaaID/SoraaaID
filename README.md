@@ -14,10 +14,10 @@
 
 ## 👋 About Me
 
-Mahasiswa yang fokus membangun perangkat lunak kecil namun bermanfaat: tool CLI, bot, dan otomasi. Sebagian besar proyek saya berangkat dari kebutuhan pribadi, lalu dipoles sampai layak dipakai orang lain — terdokumentasi, teruji, dan terus dirawat.
+Pembelajar otodidak dengan rasa ingin tahu yang besar — selalu tertarik mempelajari hal baru, terutama seputar perangkat lunak. Fokus saya membangun tool CLI, bot, dan otomasi: sebagian besar proyek berangkat dari kebutuhan pribadi, lalu dipoles sampai layak dipakai orang lain — terdokumentasi, teruji, dan terus dirawat.
 
 - 🔭 Saat ini mengembangkan tool developer berbasis **Python** dan **Node.js**
-- 🌱 Sedang mendalami keamanan web dan otomasi infrastruktur
+- 🌱 Sedang mendalami keamanan web dan otomasi infrastruktur, sambil terus membuka diri untuk bidang baru apa pun
 - 💡 Prinsip: buat yang sederhana, ukur dengan data, perbaiki terus
 
 ---
